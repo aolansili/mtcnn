@@ -1,4 +1,4 @@
 # mtcnn
-#real-time face detection
-#model:mtcnn 
-#thanks to tensorflow
+# real-time face detection
+# model:mtcnn 
+# thanks to tensorflow
